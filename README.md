@@ -1,2 +1,1 @@
-adblocker.cfg is a config file that blocks advertisements in source games. all you need to do to make it function is copy and paste it into the required directory. 
-
+adblocker.cfg is a config file that blocks 99% of pinion (and other) advertisements in source games. Copy and paste this file into the proper location and make an autoexec.cfg with the line "exec adblocker" to load it. Read the included directions and follow them very closely. 
